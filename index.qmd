@@ -1,6 +1,6 @@
 ---
 title: "Gapminder: Example Quarto Report"
-author: "The GRAPH Courses"
+author: "The GRAPH Courses - Camille"
 format: html
 ---
 
